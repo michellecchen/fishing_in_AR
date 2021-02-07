@@ -1,12 +1,12 @@
 # Fishing in Augmented Reality
 
-##🎣 Description
+## 🎣 Description
 
 A fun fishing minigame made in Augmented Reality (AR). Players can *CAST* their fishing rod, and *REEL* it in when the time is right, to catch fish!
 
 Catches are chained successively, such that players are allowed to catch larger and larger fish with each successful catch. Failed catches reset players back down to the teensiest fish.
 
-##🎣 Features
+## 🎣 Features
 
 - Fishing pond with four 'tiers' of fish: small, medium, large, and huge
 - Randomised intervals at which 'bobbing rod' events occur, at which the fish are tentatively biting — but you can't reel them in just yet
@@ -15,7 +15,7 @@ Catches are chained successively, such that players are allowed to catch larger 
 - UI popups for successful and failed catch attempts
 - Instructions floating beside each button
 
-##🎣 Credits
+## 🎣 Credits
 
 ### 3D Assets
 
