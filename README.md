@@ -17,6 +17,10 @@ Catches are chained successively, such that players are allowed to catch larger 
 - UI popups for successful and failed catch attempts
 - Instructions floating beside each button
 
+## 🎣 Tech
+
+Made with Vuforia & Unity's HDRP.
+
 ## 🎣 Credits
 
 ### 3D Assets
