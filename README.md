@@ -6,6 +6,8 @@ A fun fishing minigame made in Augmented Reality (AR). Players can *CAST* their 
 
 Catches are chained successively, such that players are allowed to catch larger and larger fish with each successful catch. Failed catches reset players back down to the teensiest fish.
 
+![img](https://i.imgur.com/RCXT9BA.png)
+
 ## 🎣 Features
 
 - Fishing pond with four 'tiers' of fish: small, medium, large, and huge
