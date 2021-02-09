@@ -6,6 +6,8 @@ A fun fishing minigame made in Augmented Reality (AR). Players can *CAST* their 
 
 Catches are chained successively, such that players are allowed to catch larger and larger fish with each successful catch. Failed catches reset players back down to the teensiest fish.
 
+Video demo [here](https://drive.google.com/file/d/1e0m4Hh_dxBeHe5mxadWb21U4xAGdLJSz/view?usp=sharing).
+
 ![img](https://i.imgur.com/RCXT9BA.png)
 
 ## 🎣 Features
